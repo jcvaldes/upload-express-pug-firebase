@@ -1,0 +1,18 @@
+html
+  include includes/head
+  body
+    include includes/nav
+    form(role="form" action="/api/v1/products",enctype="multipart/form-data", method="POST")
+      div.form-gorup
+        label(for="name") Nombre:
+        input#name.form-control(type="text", name="name", placeholder="Nombre")
+        label(for="price") Precio:
+        input#price.form-control(type="text", name="price")
+        label(for="description") Descripcion:
+        input#description.form-control(type="text", name="description")
+        label(for="file") Imagen:
+        input#file.form-control(type="file", name="imageupload")
+        input(type="submit", value="Guardar")
+
+    include includes/scripts
+  include includes/footer

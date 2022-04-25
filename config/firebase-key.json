@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "angularfotos-ad681",
+  "private_key_id": "0483f905f35ebe40ac2be81e9520799b8210681e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC/Q+RP87gYZxA3\nKC4ng4kNITO4PVx+82QQjGfFka5qWD+TamFi3cYIRpjWP/QtpuPicKIE14yVn2x2\nNwA7EO1xoeJ4yW+BP8+fBNmoFDX8frZvXn4epsIMwx39wrW5pNO+N0H1xbaJ0dXj\nTCuFAvxf+7OUUVxtJjhRjiTm4e7cV9TTH2qc2qFqzoeIkqlJbZbt31PiUKJXxR6W\nyJ+4ftspimYtfhWXdI38j40XdzLML4twA7GLEKFsI/R5N/LSVV2gSV11fBJdnukg\n4yERUI6GXyF7qL/V8gZ1i7qxygo/XMr0AXZiSGETYC0zpj9ebc4n/s0TwbFVfQp5\nZhQ/E1bhAgMBAAECggEAUZZwafqY6S/tptmo9ooRiFxFZ64lKrJAWR7LlWeTcyG5\n3PRgHoBj3VvgDmSxkFfEle9d7ZrVCW48IiFMI+YQo4xeww+KVSQXOMok3qHgdZjH\n0bIJMqIH3NHOlVTdmBdLi7SemmyAdUHhb1gqqE6hwX/pFreuKZFILOHps+NktPC0\nO0Sk/4hE3DIA5N6fbdqFMHEU0mq2CIb7OVyUrN2USGRpdw9mWGNa3qYxXCoPdGD5\nY+eXw5HNT4U2peEmBia2faXcdSV7hE9jrdFNSdAwdGFIL8uyBwQ8VejNWkdOgjee\n1lQTjdU8oB543/wHBJ3w/WSXcCGBuvtjZOT2OqS/0QKBgQD7A4swvYElIvcucOsy\nvGuuNHFw4juHYfIK+vrwcTuLf5rJcb6XfNsOwNx3r1Y9r4HCIClfR2OOoeu7pv0n\nCAdmQuwO0WbhzezSsLqDwf0WBf+YyZJshAAwYMaBUmOJPhjYZ71+yJ1IkTEwEPT8\nTSsZsiLAgtSOEzf8T1ecICV1HwKBgQDDEIOhdSaH7KU6xh9Y1yBuBteWHuRGVgDB\nVjXNX8ihVBI/CpDQfARjHtOADH0CdZLPrWTtsFcGGqueuzqBABG0qPanSszXY9L7\nB1FH5i/02gZpEzEVpg+MXSztcv2qIBZocFPY0H6kazm2RcZVMWAacQvzwv1PifFD\nWNQXNEGz/wKBgE2bDN+m11TJ+K4ND0qCYrBbWm9SIqF6sMCgVBEekRBSBWMenZRs\nb7Wh/wep1/n+VxnTo7bndWpVuXIs8LuuicseCamTKEHLztpc9W1i/oJenGV6fKC8\nNuq+IOE+vbNi1X+ioz2dfLNA4HpB49xVZ2vsXT4ztM+wNXD2ftmwPqR1AoGALBt4\n2DJoQwX0mqSgA/OpBpgPeYeEsI7T3uPCiKzm7evXsF+QPUQ9rbgTtPmd7sdtKf6Y\nOtLL6rpvIhZN9UtxtXsbQtq8FNwiodaWv35CS8hc+Ld5Ot7w1xlehlahGy3kQztb\nCkSizkTcqOWAIlVm2LPFMxpdMvYLEuJsGs8bKDsCgYAxGIWjA7L77JvRArqhhXhS\nseBc0Qw5yXvbbSMJifNKSF5+qWbGg77rvND+idrzi1TtPxsNijOZ2C3IyC2soT64\nifGdXHlgUAtrHcFr1ccqo4B4Npccua1O8g8VDU6ge1i3OWMPZoNq4l05+0m2bmmz\n6HwP1MbHC2sCozZy0HpFFA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-glr7q@angularfotos-ad681.iam.gserviceaccount.com",
+  "client_id": "104071229896354218573",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-glr7q%40angularfotos-ad681.iam.gserviceaccount.com"
+}
